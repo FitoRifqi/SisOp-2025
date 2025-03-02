@@ -2,7 +2,8 @@
 
 # SISTEM OPERASI
 
-## laporan Resmi Sistem Tugas Minggu 2
+## laporan Resmi Sistem Operasi
+### Semester 2
 
 
 <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="PENS Logo" width="400">
