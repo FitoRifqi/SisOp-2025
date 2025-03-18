@@ -151,7 +151,7 @@ Jika perpustakaan memiliki gudang besar untuk menyimpan buku-buku lama atau buku
 
 ---
 
-## Page 1.40 ~ caching
+## caching
 
 **Caching** adalah penyimpanan sementara data yang sering digunakan di tempat yang lebih cepat diakses yang bertujuan untuk mempercepat akses data.
 
